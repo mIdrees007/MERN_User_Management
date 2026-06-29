@@ -1,0 +1,17 @@
+Server: >npm init -y
+Express=> npm i Express
+
+Api hiting to backend by the clinet, or front end or react
+
+>npm i axios
+
+control component: process to controll the input values:manage input 
+manage input means : create state for each input and then control the input through that state
+un control component: data from form:
+
+=> npm i react-toastify
+React-Toastify allows you to add notifications to your app with ease.
+
+=> npm install sweet alert; to confirm the delete operation
+=> npm install sweetalert2
+=> npm install -D sass-embedded

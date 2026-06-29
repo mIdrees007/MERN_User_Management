@@ -1,0 +1,6 @@
+important:
+
+when we access a url from front end with some port where our server is runing, is different to the port on which our backend serer 
+is runing, i means when port are different then cross orgin error. 
+
+very important: npm i cros install in backend
